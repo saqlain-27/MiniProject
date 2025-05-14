@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SecureChatApp-main/SecureChatApp/src/securechatt/SecureChatApp.java</file>
+            <file>file:/D:/SecureChatApp-main/SecureChatApp/src/com/securechat/util/DBConnection.java</file>
+            <file>file:/D:/SecureChatApp-main/SecureChatApp/src/com/securechat/model/Message.java</file>
+            <file>file:/D:/SecureChatApp-main/SecureChatApp/src/com/securechat/model/User.java</file>
+            <file>file:/D:/SecureChatApp-main/SecureChatApp/src/com/securechat/gui/RegistrationForm.java</file>
+            <file>file:/D:/SecureChatApp-main/SecureChatApp/src/com/securechat/gui/LoginForm.java</file>
+            <file>file:/D:/SecureChatApp-main/SecureChatApp/src/com/securechat/gui/ChatMainFrame.java</file>
+            <file>file:/D:/SecureChatApp-main/SecureChatApp/src/com/securechat/util/SecurityUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
